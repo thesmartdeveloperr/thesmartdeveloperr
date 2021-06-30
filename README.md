@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://komarev.com/ghpvc/?username=thesmartdeveloperr)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
 My name is Dhruv and i am currently pursuing my engineering in Computer Science from India. I am really passionate for working in IT technologies and have a deep hobby of trying new technologies in my free time.
 I have been working in Web Development from the last year. I am coding in C++ since 2017.
