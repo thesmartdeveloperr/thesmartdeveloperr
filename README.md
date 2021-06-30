@@ -35,3 +35,4 @@ StackOverFlow: https://stackoverflow.com/users/11702184/thesmartdeveloper?tab=pr
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thesmartdeveloperr)](https://github.com/anuraghazra/github-readme-stats)
 
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=thesmartdeveloperr)](https://github.com/DenverCoder1/github-readme-streak-stats)
