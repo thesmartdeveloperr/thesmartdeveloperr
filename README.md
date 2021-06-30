@@ -33,3 +33,5 @@ StackOverFlow: https://stackoverflow.com/users/11702184/thesmartdeveloper?tab=pr
 
 [![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesmartdeveloperr)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thesmartdeveloperr)](https://github.com/anuraghazra/github-readme-stats)
+
