@@ -27,3 +27,6 @@ Instagram: https://www.instagram.com/thesmartdeveloperr/
 LinkedIn: https://www.linkedin.com.in/dhrruvbansal/
 
 StackOverFlow: https://stackoverflow.com/users/11702184/thesmartdeveloper?tab=profile
+
+[![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesmartdeveloperr)](https://github.com/anuraghazra/github-readme-stats)
+
