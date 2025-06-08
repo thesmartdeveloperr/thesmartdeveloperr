@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 
 # Hi there 👋
 ### Thanks for checking out my profile! I am glad you are here.
-I'm Dhruv(aka thesmartdeveloperr), currently doing my engineering(CSE) at PSIT Kanpur. I am passionate about coding and IT technologies.
-I started coding with C++ since 2017, then switched to Python and C in 2019, and eventually got to HTML,CSS,JS, etc.
-I also do competitive programming apart from all the cool development stuff.
-Here i will try to upload and share as much code as possible and contribute to the community.
-I am open for any collaborations and suggestions.
-Feel free to shoot me a message directly at my other handles linked below about any project,doubt,discussion or just say hi!
+I'm Dhruv<br/>
+👨‍💻 Software Engineer | Java • Spring Boot • React.js • JavaScript<br/>
+🚀 Building scalable web applications & RESTful APIs<br/>
+🛠️ Passionate about clean code, DevOps, and continuous learning<br/>
+🌱 Currently exploring microservices, Docker, and system design<br/>
+📚 Open to collaboration on backend/frontend projects
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
